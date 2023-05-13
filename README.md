@@ -30,7 +30,7 @@ To use this project, you can follow these steps:
 To clone the repository to your local machine you can run the line:
 
 ```python
-git clone https://github.com/Steeroy/telco_churn_modelling
+git clone https://github.com/Steeroy/telco_churn_modelling.git
 ```
 
 The telco_churn_modelling.ipynb notebook contains detailed instructions and explanations for each step of the process, including data exploration, preprocessing, feature engineering, model building, and evaluation.
